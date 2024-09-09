@@ -41,7 +41,10 @@ To view the project in its entirety:
 2. **Jupyter Notebook**: Download the `FINAL_Used_Car_Price_Prediction_Practical_Application_II.ipynb` file and open it using Jupyter Notebook to run the code cells interactively.
 3. Access my Report regarding this project:## Access the Report
 
-[View the Report: Predictive Pricing in the Used Car Market](https://github.com/stanleykelman/used-car-price-prediction/blob/main/REPORT_Predictive%20Pricing%20in%20the%20Used%20Car%20Market.docx)
+## Access the Report
+
+[View the Report: Predictive Pricing in the Used Car Market (PDF)](https://github.com/stanleykelman/used-car-price-prediction/blob/main/REPORT_Predictive%20Pricing%20in%20the%20Used%20Car%20Market.pdf)
+
 
 
 ## Conclusion
